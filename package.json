@@ -2,7 +2,7 @@
   "name": "ss-coffeekup",
   "author": "Owen Barnes <owen@socketstream.org>",
   "description": "CoffeeKup template engine wrapper providing server-side compiled templates for SocketStream apps",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./engine.js",
   "repository": {
     "type" : "git",
