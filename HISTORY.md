@@ -1,3 +1,9 @@
+0.1.2 / 2012-04-10
+==================
+
+* New API format introduced in SocketStream 0.3 beta2
+
+
 0.1.1 / 2012-03-29
 ==================
 

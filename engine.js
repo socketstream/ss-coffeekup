@@ -2,7 +2,7 @@
 
 var ck = require('coffeekup');
 
-exports.init = function(root, config) {
+exports.init = function(ss, config) {
 
   return {
 
